@@ -186,11 +186,16 @@ ps: do not believe in nothing said at www.tableless.com.br (just idiots in there
 
 **Typografy:**
 
-[Ionicons  - Icon Font](http://ionicons.com/)
+[Ionicons - Icon Font](http://ionicons.com/)
 
-[Fontawesome  - Icon Font](fontawesome.io)
+[Fontawesome - Icon Font](fontawesome.io)
 
-[Octicons  - Icon Font](https://octicons.github.com/)
+[Octicons - Icon Font](https://octicons.github.com/)
+
+[Lato - Web Font](https://www.google.com/fonts/specimen/Lato)
+
+[Roboto - Web Font](https://www.google.com/fonts/specimen/Roboto)
+
 
 [Shumi  - Free Font](https://www.behance.net/gallery/26717297/Shumi-Free-font)
 
