@@ -18,6 +18,8 @@ things that you has to install on your system:
 ----------
 **Tools:**
 
+-- To Download and install
+
 [Atom](https://atom.io/)
 
 [Github for desktop](https://desktop.github.com/)
@@ -25,6 +27,10 @@ things that you has to install on your system:
 [Slack](https://slack.com/)
 
 [Ionic Lab](http://lab.ionic.io/)
+
+-- To use in web
+
+[Fontastic](http://app.fontastic.me/)
 
 
 **Chrome Extensions:**
@@ -36,6 +42,14 @@ things that you has to install on your system:
 
 **Frameworks:**
 
+
+**Workflow:**
+
+[Yeoman](http://yeoman.io/learning/index.html)
+
+[Grunt](http://gruntjs.com/)
+
+[Gulp](http://gulpjs.com/)
 
 **Angular:**
 
@@ -53,6 +67,10 @@ things that you has to install on your system:
 
 
 
+**Css:**
+
+[Animations](http://www.justinaguilar.com/animations/index.html)
+
 **Sass:**
 
 [Sass](http://sass-lang.com/)
@@ -64,6 +82,23 @@ things that you has to install on your system:
 [Neat](http://neat.bourbon.io/)
 
 
+----------
+
+**Ui Kits:**
+
+[Bootstrap 3](http://getbootstrap.com/)
+
+[Bootstrap 4](http://v4-alpha.getbootstrap.com/)
+
+[Semantic ui](http://semantic-ui.com/)
+
+----------
+
+**Guides:**
+
+[JavaScript Promises](http://www.html5rocks.com/en/tutorials/es6/promises/?redirect_from_locale=pt)
+
+[Photoshop Etiquette](http://photoshopetiquette.com/)
 
 
 ----------
@@ -78,14 +113,47 @@ things that you has to install on your system:
 
 [lynda](http://www.lynda.com/)
 
+----------
+
+**Hosting:**
+
+[aerobatic](http://www.aerobatic.com/)
+
+[heroku](https://id.heroku.com/login)
+
 
 ----------
+
+**Social Networks and Inspiration:**
+
+[behance](https://www.behance.net/)
+
+[dribbble](https://dribbble.com/)
+
+----------
+
+**Free stock images and stuffs:**
+
+[freebies bug](http://freebiesbug.com/)
+
+[all the free stock](http://allthefreestock.com/)
+
+[Popular UIs](http://lukechesser.github.io/Popular-UIs/)
+
+[wirekit](http://adamwhitcroft.com/wirekit/)
+
+[pexels](https://www.pexels.com/)
+
+
+----------
+
 **Typografy:**
 
 [Ionicons  - Icon Font](http://ionicons.com/)
 
 [Fontawesome  - Icon Font](fontawesome.io)
 
+[Octicons  - Icon Font](https://octicons.github.com/)
 
 [Shumi  - Free Font](https://www.behance.net/gallery/26717297/Shumi-Free-font)
 
