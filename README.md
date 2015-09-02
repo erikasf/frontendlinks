@@ -16,6 +16,20 @@ things that you has to install on your system:
 
 
 ----------
+
+**keep updated:**
+
+[web designer depot](http://www.webdesignerdepot.com/)
+
+[noupe](http://www.noupe.com/)
+
+[cutedrop](http://www.cutedrop.com.br/)
+
+[designerd](http://www.designerd.com.br/)
+
+ps: do not believe in nothing said at www.tableless.com.br (just idiots in there)
+
+----------
 **Tools:**
 
 -- To Download and install
@@ -32,6 +46,9 @@ things that you has to install on your system:
 
 [Fontastic](http://app.fontastic.me/)
 
+[gist](https://gist.github.com/)
+
+[adobe color cc](https://color.adobe.com/create/color-wheel/)
 
 **Chrome Extensions:**
 
@@ -129,6 +146,26 @@ things that you has to install on your system:
 [behance](https://www.behance.net/)
 
 [dribbble](https://dribbble.com/)
+
+----------
+
+**Apis:**
+
+[adorable avatars](http://avatars.adorable.io/#demo)
+
+[random user](https://randomuser.me/)
+
+[fakeimg](http://fakeimg.pl/)
+
+[lorem pixel](http://lorempixel.com/)
+
+
+
+----------
+
+**Misc:**
+
+[flat ui colors pallet](http://flatuicolors.com/)
 
 ----------
 
