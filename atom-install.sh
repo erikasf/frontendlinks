@@ -1,0 +1,14 @@
+apm install atom-beautify
+apm install angularjs
+apm install atom-beautify
+apm install emmet
+apm install gist-it
+apm install turbo-javascript
+apm install project-finder
+apm install selector-to-tag
+apm install language-scss
+apm install linter
+apm install jshint
+apm install linter-jshint
+apm install linter-htmlhint
+apm install linter-9e-sass
