@@ -29,6 +29,38 @@ things that you has to install on your system:
 
 ps: do not believe in nothing said at www.tableless.com.br (just idiots in there)
 
+
+----------
+
+**Atom`s Plugins:**
+
+[angularjs](https://atom.io/packages/angularjs)
+
+[emmet](https://atom.io/packages/emmet)
+
+[gist-it](https://atom.io/packages/gist-it)
+
+[turbo-javascript](https://atom.io/packages/turbo-javascript)
+
+[project-finder](https://atom.io/packages/project-finder)
+
+[selector-to-tag](https://atom.io/packages/selector-to-tag)
+
+[language-scss](https://atom.io/packages/language-scss)
+
+[linter](https://atom.io/packages/linter)
+
+[jshint](https://atom.io/packages/jshint)
+
+[linter-jshint](https://atom.io/packages/linter-jshint)
+
+[linter-htmlhint](https://atom.io/packages/linter-htmlhint)
+
+[linter-9e-sass](https://atom.io/packages/linter-9e-sass)
+
+
+
+
 ----------
 **Tools:**
 
