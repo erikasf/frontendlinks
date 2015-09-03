@@ -79,6 +79,7 @@ apm install linter-jshint
 apm install linter-htmlhint
 apm install linter-9e-sass
 ```
+=======
 
 ----------
 **Tools:**
@@ -100,6 +101,7 @@ apm install linter-9e-sass
 [gist](https://gist.github.com/)
 
 [adobe color cc](https://color.adobe.com/create/color-wheel/)
+
 
 **Chrome Extensions:**
 
@@ -180,6 +182,12 @@ apm install linter-9e-sass
 [teamtreehouse](https://teamtreehouse.com/)
 
 [lynda](http://www.lynda.com/)
+
+[Taletbuddy](https://www.talentbuddy.co/)
+
+[Code combat](https://codecombat.com/)
+
+[Empire of code](https://empireofcode.com/)
 
 ----------
 
