@@ -59,8 +59,6 @@ ps: do not believe in nothing said at www.tableless.com.br (just idiots in there
 [linter-9e-sass](https://atom.io/packages/linter-9e-sass)
 
 
-
-
 ----------
 **Tools:**
 
@@ -81,6 +79,7 @@ ps: do not believe in nothing said at www.tableless.com.br (just idiots in there
 [gist](https://gist.github.com/)
 
 [adobe color cc](https://color.adobe.com/create/color-wheel/)
+
 
 **Chrome Extensions:**
 
@@ -161,6 +160,12 @@ ps: do not believe in nothing said at www.tableless.com.br (just idiots in there
 [teamtreehouse](https://teamtreehouse.com/)
 
 [lynda](http://www.lynda.com/)
+
+[Taletbuddy](https://www.talentbuddy.co/)
+
+[Code combat](https://codecombat.com/)
+
+[Empire of code](https://empireofcode.com/)
 
 ----------
 
