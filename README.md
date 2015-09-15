@@ -103,6 +103,12 @@ apm install linter-9e-sass
 [adobe color cc](https://color.adobe.com/create/color-wheel/)
 
 
+[html color codes](http://htmlcolorcodes.com/)
+
+
+[frontify](https://frontify.com/styleguide)
+
+
 **Chrome Extensions:**
 
 [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
